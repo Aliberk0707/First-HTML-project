@@ -1,0 +1,30 @@
+<!-- NaN ve N/A yazan kısmlar özelleştirilebilir -->
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Karakter Kartı</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="card">
+        <div class="card-header">
+            <h2>Karakter Bilgileri:</h2> <!-- Açıklama Başlığı -->
+            <p>N/A</p> <!-- Açıklama Metni -->
+        </div>
+        <div class="card-content">
+            <h3>N/A</h3> <!-- Karakter İsmi -->
+            <p><strong>Saldırı:</strong> NaN</p>
+            <p><strong>Güç:</strong> NaN</p>
+            <p><strong>Hız:</strong> NaN</p>
+            <p><strong>Dayanıklılık:</strong> NaN</p>
+            <p><strong>Can:</strong> NaN </p>
+            <p><strong>Büyü:</strong> NaN </p>
+        </div>
+        <div class="card-footer">
+            <p>N/A</p> <!-- Alt açıklama -->
+        </div>
+    </div>
+</body>
+</html>
