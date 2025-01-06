@@ -19,9 +19,9 @@
             <p><strong>Güç:</strong> NaN</p>
             <p><strong>Hız:</strong> NaN</p>
             <p><strong>Dayanıklılık:</strong> NaN</p>
-            <p><strong>Can:</strong> NaN </p>
-            <p><strong>Büyü:</strong> NaN </p>
-            <p><strong>Mana:</strong> NaN </p>
+            <p><strong>Can:</strong> NaN</p>
+            <p><strong>Büyü:</strong> NaN</p>
+            <p><strong>Mana:</strong> NaN</p>
         </div>
         <div class="card-footer">
             <p>N/A</p> <!-- Alt açıklama -->
